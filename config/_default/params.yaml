@@ -13,19 +13,19 @@ appearance:
 
 # SEO
 
-marketing:
-  seo:
-    site_type: Organization
-    local_business_type: ''
-    org_name: ''
-    description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
-  analytics:
-    google_analytics: ''
-    baidu_tongji: ''
-  verification:
-    google: ''
-    baidu: ''
+# marketing:
+#   seo:
+#     site_type: Organization
+#     local_business_type: ''
+#     org_name: ''
+#     description: 'A highly-customizable Hugo research group theme powered by Wowchemy website builder.'
+#     twitter: 'wowchemy'
+#   analytics:
+#     google_analytics: ''
+#     baidu_tongji: ''
+#   verification:
+#     google: ''
+#     baidu: ''
 
 # Site header
 
@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© Copyright 2015-2022 Acemap, Inc. Shanghai Jiao Tong University.'
     license:
       enable: true
       allow_derivatives: false
